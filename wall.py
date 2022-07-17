@@ -1,3 +1,8 @@
+'''
+The code is logically optimal.
+You may further minimize line of codes by merging the codes to check walls on left, right, top or bottom.
+You may change the design of the walls by changing the wall variable
+'''
 import time
 import os
 class Wall:
